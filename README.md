@@ -51,6 +51,7 @@ Deploy the website.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -280,9 +281,15 @@ Upload to GitHub Pages for free hosting.
 </body>
 </html>
 
+```
 
 
 ## OUTPUT
+<img width="1888" height="913" alt="image" src="https://github.com/user-attachments/assets/c35671fd-07ad-49de-bf06-d21867f18438" />
+<img width="1874" height="810" alt="image" src="https://github.com/user-attachments/assets/64803266-10fa-43fe-b8ec-da7909623655" />
+<img width="1881" height="393" alt="image" src="https://github.com/user-attachments/assets/da605a52-edcb-4c79-bcf0-ffe5c9324884" />
+<img width="1870" height="907" alt="image" src="https://github.com/user-attachments/assets/78c18850-de0e-401e-bbfd-bec142ee48ca" />
+
 
 
 
